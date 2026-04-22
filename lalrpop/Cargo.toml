@@ -34,7 +34,7 @@ unicode-xid = "0.2"
 sha2 = "0.8"
 
 [dev-dependencies]
-rand = "0.7"
+rand = "0.8"
 
 [dependencies.lalrpop-util]
 path = "../lalrpop-util"
